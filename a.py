@@ -8,7 +8,7 @@ import re
 # or preferably load it from an environment variable for security.
 # import os
 # genai.configure(api_key=os.environ['GEMINI_API_KEY'])
-#genai.configure(api_key="AIzaSyC8b9MnjOKqOdO062GoPtSKyiwXdeWeXS0")
+genai.configure(api_key="key here")
 
 
 # Step 2: Load your transcript from a file
